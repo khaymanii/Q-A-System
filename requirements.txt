@@ -1,6 +1,4 @@
 langchain
-protobuf
-faiss-cpu
+langchain-community
 streamlit
-tiktoken
-python-dotenv
+openai
